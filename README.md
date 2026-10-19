@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/182644493?v=4" alt="Ganesh Tupe profile photo" width="150" style="border-radius:50%;"/>
-
   <img src="./assets/ganesh-hero.svg" alt="Ganesh Tupe — Java Developer" width="100%"/>
 
   <p>
